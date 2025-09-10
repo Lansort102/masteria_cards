@@ -1,0 +1,107 @@
+body {
+    background: #1c1c1c;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+.card {
+    height: 75vh;
+    width: 25%;
+    background: #000000;
+    border-radius: 10%;
+}
+img {
+    height: 20vh;
+    border-radius: 50%;
+    padding: 0.5rem;
+}
+.avatar {
+    display: flex;
+    justify-content: center;
+}
+.h1 {
+    font-family: Andale Mono, monospace;
+    display: flex;
+    justify-content: center;
+    font-size: clamp(1rem, 4vw, 2rem);
+    background: #232323;
+    margin: 0;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border-radius: 50rem;
+    font-weight: bold;
+}
+
+.h1.mettat:hover {
+    background: pink;
+}
+.h1.artem:hover {
+    background: #e83939;
+}
+.h1.aifer:hover {
+    background: #6d98c1;
+}
+.aifer {
+    color: cyan;
+}
+.artem {
+    color: darkred;
+}
+.mettat {
+    color:deeppink;
+}
+.card:hover {
+    background: #333333;
+}
+.rank {
+    font-family: monospace;
+    color: #ffffff;
+    margin: 0.1rem;
+    text-align: center;
+    background: #232323;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    border-radius: 60rem;
+}
+.p {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: center;
+    color: white;
+    background: #232323;
+    border-radius: 2rem;
+    height: 1.5rem;
+}
+.metta:hover {
+    background: pink;
+    color:deeppink;
+    text-decoration: underline;
+}
+.art:hover {
+    color: darkred;
+    background: #e83939;
+    text-decoration: underline;
+}
+.aif:hover {
+    color: cyan;
+    background: #6d98c1;
+    text-decoration: underline;
+}
+.like {
+    height: 2.3rem;
+}
+@media (max-width: 768px) {
+    .card {
+        width: 80%;
+        height: auto;
+        margin-bottom: 1rem;
+    }
+    body {
+        flex-direction: column;
+    }
+}
+.card, .h1, .p {
+    transition: all 0.3s ease;
+}
