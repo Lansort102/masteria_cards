@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db22b022-304e-4d24-ad70-866982e9f0c0" name="Changes" comment="Добавлена карточка участника &quot;Пушик&quot;.">
-      <change afterPath="$PROJECT_DIR$/img/flameavatar.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="db22b022-304e-4d24-ad70-866982e9f0c0" name="Changes" comment="&quot;остров олуха&quot; заменён на &quot;Остров Олух&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757521645787</updated>
-      <workItem from="1757521646977" duration="13625000" />
+      <workItem from="1757521646977" duration="15349000" />
     </task>
     <task id="LOCAL-00001" summary="добавлен README.md">
       <option name="closed" value="true" />
@@ -125,7 +121,31 @@
       <option name="project" value="LOCAL" />
       <updated>1757614176617</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Добавлена карточка участника &quot;Фламе&quot;.">
+      <option name="closed" value="true" />
+      <created>1757614653697</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757614653697</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;остров олуха&quot; заменён на &quot;Остров Олух&quot;">
+      <option name="closed" value="true" />
+      <created>1757615227635</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757615227635</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;остров олуха&quot; заменён на &quot;Остров Олух&quot;">
+      <option name="closed" value="true" />
+      <created>1757616333581</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757616333581</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +157,8 @@
     <MESSAGE value="удалена папка idea" />
     <MESSAGE value="Добавлена карточка участника &quot;Спейс&quot;." />
     <MESSAGE value="Добавлена карточка участника &quot;Пушик&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлена карточка участника &quot;Пушик&quot;." />
+    <MESSAGE value="Добавлена карточка участника &quot;Фламе&quot;." />
+    <MESSAGE value="&quot;остров олуха&quot; заменён на &quot;Остров Олух&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;остров олуха&quot; заменён на &quot;Остров Олух&quot;" />
   </component>
 </project>
