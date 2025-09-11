@@ -5,6 +5,7 @@ body {
     align-items: center;
     justify-content: center;
     gap: 2rem;
+    flex-wrap: wrap;
 }
 .card {
     height: 75vh;
@@ -43,6 +44,9 @@ img {
 .h1.aifer:hover {
     background: #6d98c1;
 }
+.h1.spaces:hover {
+    background: #09137e;
+}
 .aifer {
     color: cyan;
 }
@@ -51,6 +55,9 @@ img {
 }
 .mettat {
     color:deeppink;
+}
+.spaces {
+    color: #9318e1;
 }
 .card:hover {
     background: #333333;
@@ -87,6 +94,11 @@ img {
 .aif:hover {
     color: cyan;
     background: #6d98c1;
+    text-decoration: underline;
+}
+.space:hover {
+    color: #9318e1;
+    background: #09137e;
     text-decoration: underline;
 }
 .like {
