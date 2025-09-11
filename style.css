@@ -12,6 +12,7 @@ body {
     width: 25%;
     background: #000000;
     border-radius: 10%;
+    transition: transform 0.3s ease, background 0.3s ease;
 }
 img {
     height: 20vh;
@@ -73,6 +74,7 @@ img {
 }
 .card:hover {
     background: #333333;
+    transform: scale(1.1);
 }
 .rank {
     font-family: monospace;
