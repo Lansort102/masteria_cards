@@ -50,6 +50,9 @@ img {
 .h1.pyshik:hover {
     background: black;
 }
+.h1.flame:hover {
+    background: #35aafb;
+}
 .aifer {
     color: cyan;
 }
@@ -64,6 +67,9 @@ img {
 }
 .pyshik {
     color: #838383;
+}
+.flame {
+    color: green;
 }
 .card:hover {
     background: #333333;
@@ -110,6 +116,11 @@ img {
 .pys:hover {
     color: #838383;
     background: #000000;
+    text-decoration: underline;
+}
+.flam:hover {
+    color: green;
+    background: #35aafb;
     text-decoration: underline;
 }
 .like {
