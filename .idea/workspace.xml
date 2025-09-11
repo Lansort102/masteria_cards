@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db22b022-304e-4d24-ad70-866982e9f0c0" name="Changes" comment="&quot;остров олуха&quot; заменён на &quot;Остров Олух&quot;" />
+    <list default="true" id="db22b022-304e-4d24-ad70-866982e9f0c0" name="Changes" comment="Теперь при наведение карточка увеличивается.&#10;Добавлена лёгкая анимация при наведение.">
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757521645787</updated>
-      <workItem from="1757521646977" duration="15349000" />
+      <workItem from="1757521646977" duration="15905000" />
     </task>
     <task id="LOCAL-00001" summary="добавлен README.md">
       <option name="closed" value="true" />
@@ -145,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757616333581</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Теперь при наведение карточка увеличивается.&#10;Добавлена лёгкая анимация при наведение.">
+      <option name="closed" value="true" />
+      <created>1757616412852</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757616412852</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +169,7 @@
     <MESSAGE value="Добавлена карточка участника &quot;Пушик&quot;." />
     <MESSAGE value="Добавлена карточка участника &quot;Фламе&quot;." />
     <MESSAGE value="&quot;остров олуха&quot; заменён на &quot;Остров Олух&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;остров олуха&quot; заменён на &quot;Остров Олух&quot;" />
+    <MESSAGE value="Теперь при наведение карточка увеличивается.&#10;Добавлена лёгкая анимация при наведение." />
+    <option name="LAST_COMMIT_MESSAGE" value="Теперь при наведение карточка увеличивается.&#10;Добавлена лёгкая анимация при наведение." />
   </component>
 </project>
