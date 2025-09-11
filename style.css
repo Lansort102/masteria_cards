@@ -13,6 +13,7 @@ body {
     background: #000000;
     border-radius: 10%;
     transition: transform 0.3s ease, background 0.3s ease;
+    transform-origin: center;
 }
 img {
     height: 20vh;
@@ -72,7 +73,7 @@ img {
 }
 .card:hover {
     background: #333333;
-    scale: 107%;
+    transform: scale(1.08);
 }
 .rank {
     font-family: monospace;
