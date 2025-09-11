@@ -47,6 +47,9 @@ img {
 .h1.spaces:hover {
     background: #09137e;
 }
+.h1.pyshik:hover {
+    background: black;
+}
 .aifer {
     color: cyan;
 }
@@ -58,6 +61,9 @@ img {
 }
 .spaces {
     color: #9318e1;
+}
+.pyshik {
+    color: #838383;
 }
 .card:hover {
     background: #333333;
@@ -99,6 +105,11 @@ img {
 .space:hover {
     color: #9318e1;
     background: #09137e;
+    text-decoration: underline;
+}
+.pys:hover {
+    color: #838383;
+    background: #000000;
     text-decoration: underline;
 }
 .like {
