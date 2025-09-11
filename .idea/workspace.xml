@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db22b022-304e-4d24-ad70-866982e9f0c0" name="Changes" comment="Теперь при наведение карточка увеличивается.&#10;Добавлена лёгкая анимация при наведение.">
+    <list default="true" id="db22b022-304e-4d24-ad70-866982e9f0c0" name="Changes" comment="Мелкие фиксы">
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757521645787</updated>
-      <workItem from="1757521646977" duration="15905000" />
+      <workItem from="1757521646977" duration="18697000" />
     </task>
     <task id="LOCAL-00001" summary="добавлен README.md">
       <option name="closed" value="true" />
@@ -155,7 +155,31 @@
       <option name="project" value="LOCAL" />
       <updated>1757616412852</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Мелкие улучшения">
+      <option name="closed" value="true" />
+      <created>1757616937228</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757616937228</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Изменён увеличенный размер при наведение">
+      <option name="closed" value="true" />
+      <created>1757617071158</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757617071158</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Мелкие фиксы">
+      <option name="closed" value="true" />
+      <created>1757617633012</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1757617633012</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +194,9 @@
     <MESSAGE value="Добавлена карточка участника &quot;Фламе&quot;." />
     <MESSAGE value="&quot;остров олуха&quot; заменён на &quot;Остров Олух&quot;" />
     <MESSAGE value="Теперь при наведение карточка увеличивается.&#10;Добавлена лёгкая анимация при наведение." />
-    <option name="LAST_COMMIT_MESSAGE" value="Теперь при наведение карточка увеличивается.&#10;Добавлена лёгкая анимация при наведение." />
+    <MESSAGE value="Мелкие улучшения" />
+    <MESSAGE value="Изменён увеличенный размер при наведение" />
+    <MESSAGE value="Мелкие фиксы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Мелкие фиксы" />
   </component>
 </project>
