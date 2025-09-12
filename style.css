@@ -135,6 +135,9 @@ img {
     body {
         flex-direction: column;
     }
+    .p {
+        height: auto;
+    }
 }
 .card, .h1, .p {
     transition: all 0.3s ease;
