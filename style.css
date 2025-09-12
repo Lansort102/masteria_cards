@@ -56,6 +56,10 @@ img {
 .h1.cyn:hover {
     background: #dfc9a2;
 }
+.h1.thirt:hover {
+    background: white;
+    color: #878787;
+}
 .aifer {
     color: cyan;
 }
@@ -76,6 +80,9 @@ img {
 }
 .cyn {
     color: #4e1b6c;
+}
+.thirt {
+    color: #000000;
 }
 .card:hover {
     background: #333333;
@@ -102,39 +109,40 @@ img {
 .metta:hover {
     background: pink;
     color:deeppink;
-    text-decoration: underline;
 }
 .art:hover {
     color: darkred;
     background: #e83939;
-    text-decoration: underline;
 }
 .aif:hover {
     color: cyan;
     background: #6d98c1;
-    text-decoration: underline;
 }
 .space:hover {
     color: #9318e1;
     background: #09137e;
-    text-decoration: underline;
 }
 .pys:hover {
     color: #838383;
     background: #000000;
-    text-decoration: underline;
 }
 .flam:hover {
     color: green;
     background: #35aafb;
-    text-decoration: underline;
 }
 .cy:hover {
     color: #4e1b6c;
     background: #dfc9a2;
 }
+.thir:hover {
+    background: white;
+    color: #878787;
+}
 .like {
     height: 2.3rem;
+}
+.rank:hover {
+    text-decoration: underline;
 }
 @media (max-width: 768px) {
     .card {
