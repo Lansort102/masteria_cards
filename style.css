@@ -53,6 +53,9 @@ img {
 .h1.flame:hover {
     background: #35aafb;
 }
+.h1.cyn:hover {
+    background: #dfc9a2;
+}
 .aifer {
     color: cyan;
 }
@@ -71,6 +74,9 @@ img {
 .flame {
     color: green;
 }
+.cyn {
+    color: #4e1b6c;
+}
 .card:hover {
     background: #333333;
     transform: scale(1.08);
@@ -84,7 +90,7 @@ img {
     border-radius: 60rem;
 }
 .p {
-    font-size: clamp(0.1rem, 4vw, 1rem);
+    font-size: clamp(0.1rem, 4vw, 0.9rem);
     margin-left: 1rem;
     margin-right: 1rem;
     text-align: center;
@@ -122,6 +128,10 @@ img {
     color: green;
     background: #35aafb;
     text-decoration: underline;
+}
+.cy:hover {
+    color: #4e1b6c;
+    background: #dfc9a2;
 }
 .like {
     height: 2.3rem;

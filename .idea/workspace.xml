@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db22b022-304e-4d24-ad70-866982e9f0c0" name="Changes" comment="Мелкие фиксы">
+    <list default="true" id="db22b022-304e-4d24-ad70-866982e9f0c0" name="Changes" comment="Улучшено отображение текста на мобильной версии. x2">
+      <change afterPath="$PROJECT_DIR$/img/anderavatar.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cynavatar.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thirteen.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757521645787</updated>
-      <workItem from="1757521646977" duration="18697000" />
+      <workItem from="1757521646977" duration="22339000" />
     </task>
     <task id="LOCAL-00001" summary="добавлен README.md">
       <option name="closed" value="true" />
@@ -179,7 +183,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757617633012</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Улучшено отображение текста на мобильной версии.">
+      <option name="closed" value="true" />
+      <created>1757623388860</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1757623388860</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Улучшено отображение текста на мобильной версии. x2">
+      <option name="closed" value="true" />
+      <created>1757693824150</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757693824151</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +217,8 @@
     <MESSAGE value="Мелкие улучшения" />
     <MESSAGE value="Изменён увеличенный размер при наведение" />
     <MESSAGE value="Мелкие фиксы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Мелкие фиксы" />
+    <MESSAGE value="Улучшено отображение текста на мобильной версии." />
+    <MESSAGE value="Улучшено отображение текста на мобильной версии. x2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Улучшено отображение текста на мобильной версии. x2" />
   </component>
 </project>
