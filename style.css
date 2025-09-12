@@ -60,6 +60,9 @@ img {
     background: white;
     color: #878787;
 }
+.h1.ander:hover {
+    background: #9a5fd8;
+}
 .aifer {
     color: cyan;
 }
@@ -83,6 +86,9 @@ img {
 }
 .thirt {
     color: #000000;
+}
+.ander {
+    color: #2b19d1;
 }
 .card:hover {
     background: #333333;
@@ -137,6 +143,10 @@ img {
 .thir:hover {
     background: white;
     color: #878787;
+}
+.and:hover {
+    color: #2b19d1;;
+    background: #9a5fd8;
 }
 .like {
     height: 2.3rem;
