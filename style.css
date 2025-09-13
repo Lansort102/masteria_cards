@@ -189,6 +189,12 @@ img {
     .p {
         height: auto;
     }
+    .matrix.h1 {
+        color: #02ffff;
+    }
+    .starlight.h1 {
+        color: #076aff;
+    }
 }
 .card, .h1, .p {
     transition: all 0.3s ease;
