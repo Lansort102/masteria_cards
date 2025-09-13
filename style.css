@@ -33,6 +33,7 @@ img {
     margin: 0 1rem;
     border-radius: 50rem;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .h1.mettat:hover {
