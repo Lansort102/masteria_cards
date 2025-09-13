@@ -64,6 +64,14 @@ img {
 .h1.ander:hover {
     background: #9a5fd8;
 }
+.h1.starlight:hover {
+    background: #1c3271;
+    color: #076aff;
+}
+.h1.matrix:hover {
+    background: #1f4c57;
+    color: #02ffff;
+}
 .aifer {
     color: cyan;
 }
@@ -90,6 +98,12 @@ img {
 }
 .ander {
     color: #2b19d1;
+}
+.starlight {
+    color: #02275e;
+}
+.matrix {
+    color: #19333e;
 }
 .card:hover {
     background: #333333;
@@ -148,6 +162,14 @@ img {
 .and:hover {
     color: #2b19d1;;
     background: #9a5fd8;
+}
+.star:hover {
+    color: #076aff;
+    background: #1c3271;
+}
+.mat:hover {
+    background: #1f4c57;
+    color: #02ffff;
 }
 .like {
     height: 2.3rem;
