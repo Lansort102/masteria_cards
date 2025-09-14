@@ -40,7 +40,8 @@ img {
     background: pink;
 }
 .h1.artem:hover {
-    background: #e83939;
+    background: #ff2b2b;
+    color: #aa1e1e;
 }
 .h1.aifer:hover {
     background: #6d98c1;
@@ -56,13 +57,15 @@ img {
 }
 .h1.cyn:hover {
     background: #dfc9a2;
+    color: #4e1b6c;
 }
 .h1.thirt:hover {
     background: white;
     color: #878787;
 }
 .h1.ander:hover {
-    background: #9a5fd8;
+    background: #2b19d1;
+    color: #9a5fd8;
 }
 .h1.starlight:hover {
     background: #1c3271;
@@ -71,6 +74,10 @@ img {
 .h1.matrix:hover {
     background: #1f4c57;
     color: #02ffff;
+}
+.h1.smile:hover {
+    color: #a8238d;
+    background: #3a3687;
 }
 .aifer {
     color: cyan;
@@ -91,7 +98,7 @@ img {
     color: green;
 }
 .cyn {
-    color: #4e1b6c;
+    color: #dfc9a2;
 }
 .thirt {
     color: #000000;
@@ -104,6 +111,9 @@ img {
 }
 .matrix {
     color: #19333e;
+}
+.smile {
+    color: #49023b;
 }
 .card:hover {
     background: #333333;
@@ -160,8 +170,8 @@ img {
     color: #878787;
 }
 .and:hover {
-    color: #2b19d1;;
-    background: #9a5fd8;
+    background: #2b19d1;
+    color: #9a5fd8;
 }
 .star:hover {
     color: #076aff;
@@ -170,6 +180,10 @@ img {
 .mat:hover {
     background: #1f4c57;
     color: #02ffff;
+}
+.smil:hover {
+    color: #a8238d;
+    background: #3a3687;
 }
 .like {
     height: 2.3rem;
@@ -194,6 +208,9 @@ img {
     }
     .starlight.h1 {
         color: #076aff;
+    }
+    .p.like.and {
+        font-size: clamp(0.1rem, 4vw, 0.7rem);
     }
 }
 .card, .h1, .p {
