@@ -209,8 +209,11 @@ img {
     .starlight.h1 {
         color: #076aff;
     }
-    .p.like {
+    /*.p.like {
         font-size: clamp(0.1rem, 4vw, 0.7rem);
+    }*/ /*пока не нужно, после тестов возможно удалю*/
+    .p.like {
+        height: 3rem;
     }
 }
 .card, .h1, .p {
