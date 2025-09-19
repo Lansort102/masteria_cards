@@ -47,13 +47,13 @@ img {
     background: #6d98c1;
 }
 .h1.spaces:hover {
-    background: #09137e;
+    background: #190425;
 }
 .h1.pyshik:hover {
     background: black;
 }
 .h1.flame:hover {
-    background: #35aafb;
+    background: #022202;
 }
 .h1.cyn:hover {
     background: #dfc9a2;
@@ -95,7 +95,7 @@ img {
     color: #838383;
 }
 .flame {
-    color: green;
+    color: #049e04;
 }
 .cyn {
     color: #dfc9a2;
@@ -151,7 +151,7 @@ img {
 }
 .space:hover {
     color: #9318e1;
-    background: #09137e;
+    background: #230635;
 }
 .pys:hover {
     color: #838383;
