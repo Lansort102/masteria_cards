@@ -44,7 +44,7 @@ img {
     color: #aa1e1e;
 }
 .h1.aifer:hover {
-    background: #6d98c1;
+    background: cyan;
 }
 .h1.spaces:hover {
     background: #190425;
@@ -80,7 +80,7 @@ img {
     background: #3a3687;
 }
 .aifer {
-    color: cyan;
+    color: #0b978f;
 }
 .artem {
     color: darkred;
@@ -146,8 +146,8 @@ img {
     background: #e83939;
 }
 .aif:hover {
-    color: cyan;
-    background: #6d98c1;
+    color: #0b978f;
+    background: cyan;
 }
 .space:hover {
     color: #9318e1;
